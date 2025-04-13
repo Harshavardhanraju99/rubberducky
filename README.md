@@ -1,8 +1,7 @@
 # rubberducky
+![Screenshot 2025-04-13 223043](https://github.com/user-attachments/assets/eab0a3f1-8cd4-459e-b815-0a471cb7bc3f)
+
 # LinkedIn Auto-Connect HID Script
-![Uploading Screenshot 2025-04-13 223043.png…]()
-
-
 This project uses an **Arduino Leonardo or Pro Micro** to act as a **Human Interface Device (HID)**. When triggered (e.g., by a button press), it:
 
 - Launches **Firefox**
